@@ -1,0 +1,74 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "47b5e5bf541b6421d4b6af7ae6b781b6d3e1cf34c4ffbf0a9db4679556e1672b"
+    },
+    {
+      "guid" : "47b5e5bf541b6421d4b6af7ae6b781b6d3bbef21dd076025a7ee2cd2224d9d98"
+    },
+    {
+      "guid" : "47b5e5bf541b6421d4b6af7ae6b781b6a5a3ff25602516c3981f5e8884d3eb2a"
+    },
+    {
+      "guid" : "47b5e5bf541b6421d4b6af7ae6b781b625fe9a70e696cee621886ad5e3fcdb3a"
+    },
+    {
+      "guid" : "47b5e5bf541b6421d4b6af7ae6b781b64f1d0ff958d5c15087fbc5a1fe20dd5e"
+    },
+    {
+      "guid" : "47b5e5bf541b6421d4b6af7ae6b781b6acab2f8d905bfd87a842ae8f10faec69"
+    },
+    {
+      "guid" : "47b5e5bf541b6421d4b6af7ae6b781b6c105485684b3f5e1484d3c2d555d36c5"
+    }
+  ],
+  "containerPath" : "/Users/ryanbowz/Documents/xcode/CSCE689/L05/build/L05.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/ryanbowz/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ryanbowz/Library/Developer/Xcode/DerivedData/L05-hfajunltqnryelaplajqlnaynehq/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ryanbowz/Library/Developer/Xcode/DerivedData/L05-hfajunltqnryelaplajqlnaynehq/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
